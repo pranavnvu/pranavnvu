@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7aa2f7; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff007f; }
+    .icon { stroke: #38b2ac; stroke-width: 2; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  
+  <rect x="0.5" y="0.5" width="449" height="194" rx="4.5" fill="#1a1b26" stroke="#38b2ac" stroke-opacity="0.6"/>
+  <text x="25" y="35" class="header">Pranav's GitHub Stats</text>
+  
+  <!-- Commits -->
+  <g transform="translate(25, 55)">
+    <circle cx="12" cy="12" r="4" class="icon"/>
+    <line x1="2" y1="12" x2="8" y2="12" class="icon"/>
+    <line x1="16" y1="12" x2="22" y2="12" class="icon"/>
+    <text x="35" y="17" class="stat">Total Commits:</text>
+    <text x="200" y="17" class="value">67</text>
+  </g>
+  
+  <!-- Stars -->
+  <g transform="translate(25, 85)">
+    <polygon points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9" class="icon"/>
+    <text x="35" y="17" class="stat">Total Stars:</text>
+    <text x="200" y="17" class="value">0</text>
+  </g>
+  
+  <!-- PRs -->
+  <g transform="translate(25, 115)">
+    <circle cx="18" cy="18" r="3" class="icon"/>
+    <circle cx="6" cy="6" r="3" class="icon"/>
+    <path d="M13 6h3a2 2 0 0 1 2 2v7M6 9v9" class="icon"/>
+    <text x="35" y="17" class="stat">Total Pull Requests:</text>
+    <text x="200" y="17" class="value">0</text>
+  </g>
+  
+  <!-- Issues -->
+  <g transform="translate(25, 145)">
+    <circle cx="12" cy="12" r="10" class="icon"/>
+    <line x1="12" y1="8" x2="12" y2="12" class="icon"/>
+    <circle cx="12" cy="16" r="0.5" fill="#38b2ac"/>
+    <text x="35" y="17" class="stat">Total Issues:</text>
+    <text x="200" y="17" class="value">0</text>
+  </g>
+</svg>
