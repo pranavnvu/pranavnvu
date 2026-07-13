@@ -6,46 +6,22 @@
   </style>
   
   <rect x="0.5" y="0.5" width="449" height="194" rx="4.5" fill="#1a1b26" stroke="#38b2ac" stroke-opacity="0.6"/>
-  <text x="25" y="35" class="header">Top Languages</text>
+  <text x="25" y="35" class="header">Top Languages (Original Repos)</text>
   
   <clipPath id="bar-clip">
     <rect x="25" y="55" width="400" height="10" rx="5" />
   </clipPath>
   
   <g clip-path="url(#bar-clip)">
-    <rect x="25" y="55" width="218.571964017991" height="10" fill="#e34f26" />
-    <rect x="243.571964017991" y="55" width="137.83264617691157" height="10" fill="#3572A5" />
-    <rect x="381.4046101949026" y="55" width="32.5032796101949" height="10" fill="#563d7c" />
-    <rect x="413.9078898050975" y="55" width="7.01602323838081" height="10" fill="#f1e05a" />
-    <rect x="420.9239130434783" y="55" width="2.792353823088456" height="10" fill="#89e051" />
+    <rect x="25" y="55" width="400.0" height="10" fill="#3572A5" />
   </g>
   
   <!-- Language List -->
   <g transform="translate(25, 85)">
     <g transform="translate(0, 0)">
-      <circle cx="5" cy="5" r="5" fill="#e34f26" />
-      <text x="20" y="9" class="lang-text">HTML</text>
-      <text x="120" y="9" class="lang-pct">54.6%</text>
-    </g>
-    <g transform="translate(0, 25)">
       <circle cx="5" cy="5" r="5" fill="#3572A5" />
       <text x="20" y="9" class="lang-text">Python</text>
-      <text x="120" y="9" class="lang-pct">34.5%</text>
-    </g>
-    <g transform="translate(0, 50)">
-      <circle cx="5" cy="5" r="5" fill="#563d7c" />
-      <text x="20" y="9" class="lang-text">CSS</text>
-      <text x="120" y="9" class="lang-pct">8.1%</text>
-    </g>
-    <g transform="translate(220, 0)">
-      <circle cx="5" cy="5" r="5" fill="#f1e05a" />
-      <text x="20" y="9" class="lang-text">JavaScript</text>
-      <text x="120" y="9" class="lang-pct">1.8%</text>
-    </g>
-    <g transform="translate(220, 25)">
-      <circle cx="5" cy="5" r="5" fill="#89e051" />
-      <text x="20" y="9" class="lang-text">Shell</text>
-      <text x="120" y="9" class="lang-pct">0.7%</text>
+      <text x="120" y="9" class="lang-pct">100.0%</text>
     </g>
   </g>
 </svg>
