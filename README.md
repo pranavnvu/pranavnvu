@@ -63,8 +63,8 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavnvu&show_icons=true&theme=tokyonight&count_private=true" alt="Pranav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavnvu&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=pranavnvu&show_icons=true&theme=tokyonight&count_private=true" alt="Pranav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=pranavnvu&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="left">
